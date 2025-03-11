@@ -1,19 +1,24 @@
-# Olá, eu sou o Caio! 👋
+# Hi, I'm Caio! 👋
 
-Sou estudante de Ciência da Computação e entusiasta de programação. Busco sempre aprender e aplicar novas tecnologias em meus projetos. Aqui estão alguns dos meus repositórios que mostram minhas habilidades e interesses:
+I'm a Computer Science student passionate about coding and constantly learning new technologies. Here are some of my repositories that showcase my skills and projects:
 
-## 🛠️ Tecnologias que uso:
-- Python
-- JavaScript
-- HTML/CSS
-- Java
-- React
+## 🛠️ Technologies I Use:
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) Node.js
+- ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=flat&logo=javascript&logoColor=black) JavaScript
+- ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) Express
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) Java
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) Spring Boot
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) MongoDB
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) PostgreSQL
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) C
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python
+- ![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat&logo=linux&logoColor=white) Assembly
 
-## 🚀 Repositórios em destaque:
-- [**API de Compras**](https://github.com/cocaioo/api-de-compras): Uma API robusta para gerenciar produtos e pedidos, construída com Node.js.
-- [**Portfólio Pessoal**](https://github.com/cocaioo/portifolio): Meu site pessoal feito com React, mostrando projetos e experiências.
-- [**Jogo da Memória**](https://github.com/cocaioo/jogo-da-memoria): Um jogo interativo de memória usando JavaScript, perfeito para quem quer aprender lógica de programação.
+## 🚀 Highlighted Projects:
+- [**API de Compras**](https://github.com/cocaioo/api-de-compras): A robust API to manage products and orders built with Node.js.
+- [**Personal Portfolio**](https://github.com/cocaioo/portifolio): My personal website made with React, showcasing projects and experience.
+- [**Memory Game**](https://github.com/cocaioo/jogo-da-memoria): An interactive memory game built with JavaScript, perfect for learning programming logic.
 
-## 📫 Como me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
-- [Twitter](https://twitter.com/seutwitter)
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/cocaioo/)
