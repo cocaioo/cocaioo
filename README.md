@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Caio! 👋
 
-<!--
-**cocaioo/cocaioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação e entusiasta de programação. Busco sempre aprender e aplicar novas tecnologias em meus projetos. Aqui estão alguns dos meus repositórios que mostram minhas habilidades e interesses:
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que uso:
+- Python
+- JavaScript
+- HTML/CSS
+- Java
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Repositórios em destaque:
+- [**API de Compras**](https://github.com/cocaioo/api-de-compras): Uma API robusta para gerenciar produtos e pedidos, construída com Node.js.
+- [**Portfólio Pessoal**](https://github.com/cocaioo/portifolio): Meu site pessoal feito com React, mostrando projetos e experiências.
+- [**Jogo da Memória**](https://github.com/cocaioo/jogo-da-memoria): Um jogo interativo de memória usando JavaScript, perfeito para quem quer aprender lógica de programação.
+
+## 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
+- [Twitter](https://twitter.com/seutwitter)
